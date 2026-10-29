@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "author": "Micaela",
+    "title": "Bienvenidos a nuestro espacio",
+    "content": "Hoy empezamos este nuevo proyecto juntas. Acá vamos a compartir nuestras ideas y experiencias...",
+    "imageUrl": "https://picsum.photos/id/1018/600/400"
+  },
+  {
+    "id": "2",
+    "author": "Sofía",
+    "title": "Tips de organización semanal",
+    "content": "Mantener una agenda actualizada es clave para no perder de vista nuestros objetivos...",
+    "imageUrl": "https://picsum.photos/id/1015/600/400"
+  }
+]
