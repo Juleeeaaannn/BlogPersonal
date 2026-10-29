@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import BlogManager from './BlogManager';
+import BlogManager from './blogManager';
 
 async function hashPassword(password) {
   const encoder = new TextEncoder();
